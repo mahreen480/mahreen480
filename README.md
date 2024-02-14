@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahreen Farooq</h1>
+<h1 align="center">Mahreen Farooq</h1>
 <h3 align="center">CS Undergraduate</h3>
 
 - 🔭 I’m currently working on **Blogging Website**
