@@ -1,8 +1,6 @@
 <h1 align="center">Mahreen Farooq</h1>
 <h3 align="center">CS Undergraduate</h3>
 
-- 🔭 I’m currently working on **Blogging Website**
-
 - 🌱 I’m currently learning **Bootstrap, Database Systems, and Operating Systems**
 
 <h3 align="left">Connect with me:</h3>
