@@ -1,7 +1,7 @@
 <h1 align="center">Mahreen Farooq</h1>
 <h3 align="center">Web Developer <br/>CS Undergraduate</h3>
 
-- 🌱 I’m currently learning **Tailwind CSS, Database Systems, and Operating Systems**
+- 🌱 I’m currently learning **Database Systems, and Operating Systems**
 
  - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/mahreen480)
 
