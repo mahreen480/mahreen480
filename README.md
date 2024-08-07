@@ -1,7 +1,7 @@
 <h1 align="center">Mahreen Farooq</h1>
 <h3 align="center">Web Developer <br/>CS Undergraduate</h3>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **React , Nextjs**
 
  - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/mahreen480)
 
