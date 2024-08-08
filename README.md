@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="35" alt="microsoftsqlserver logo"  />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" alt="postgresql logo"  />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img src="https://img.shields.io/badge/React-lightblue?logo=react&logoColor=white&style=for-the-badge" height="35" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React-4479A1?logo=react&logoColor=white&style=for-the-badge" height="35" alt="react logo"  />
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahreen480&show_icons=true&locale=en&layout=donut&langs_count=10" alt="mahreen480" /></p>
